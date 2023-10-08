@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ojas099
+- 👀 I’m interested in Game Dev, Pentesting, AI & ML
+- 🌱 I’m currently learning Python
